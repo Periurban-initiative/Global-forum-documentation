@@ -36,7 +36,7 @@ If you are traveling to a different city, and wish to connect with local members
 
 Promotions of Products/Services
 ----------------------------------
-Consistent with our previous policy, one email per quarter is allowed for a member promoting his/her product. [insert your own policy here, this is just an example]
+One email per quarter is allowed for a member promoting his/her product. 
 
 
 
@@ -50,7 +50,13 @@ Articles should include something that states why the article is relevant, and m
 
 The following types of content should not be sent out:
 ----------------------------------------------------------
-Unapproved requests for donations/fundraising (especially important for maintaining 501(c)(3) status)- Emails requesting capital/funds for a venture (unless relevant)- Repeated emails for self-promotion (typically, one email per quarter is allowed for a member promoting his/her product)- Requests for protected media/material (protected through copyright/membership/etc.)- Repeated emails (i.e. one member shares an article and a number of days later the article is shared again).- Members who repeatedly violate our policies regarding posting will be removed from the Global forum platform.
+
+* Unapproved requests for donations/fundraising (especially important for maintaining 501(c)(3) status).
+* Emails requesting capital/funds for a venture (unless relevant). 
+* Repeated emails for self-promotion (typically, one email per quarter is allowed for a member promoting his/her product).
+* Requests for protected media/material (protected through copyright/membership/etc.)
+* Repeated emails (i.e. one member shares an article and a number of days later the article is shared again).
+* Members who repeatedly violate our policies regarding posting will be removed from the Global forum platform.
 
 Setting expectations
 ==============================================
@@ -59,7 +65,7 @@ Thank you for officially registering for the Global Periurban Forum! Throughout 
 
 How to use your new community space:
 ----------------------------------------------------------
-When you registered to the forum you get prompted to :doc:`Registering an Account </Options/Getting Started>`. We’ll use this platform to send all communication relevant to this community.
+When you register to the forum you are prompted to :doc:`Registering an Account </Options/Getting Started>`.
 
 Introduce Yourself
 ----------------------------------------------------------

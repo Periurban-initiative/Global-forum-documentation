@@ -100,7 +100,7 @@ You will be taken to the posting form when you decide to post either a new topic
 
 Smiles
 -----------------------------
-Smilies, or emoticons, are small images which can be inserted into your post to add expression emphasis. To use Smiles, certain characters are put together to get the desired output. For example, typing :) will insert |:slight_smile:| , ;) will insert |:wink:|, etc. Other smilies require the format :texthere: to display. For example, :roll: will insert |:face_with_rolling_eyes:|, and :cry: will insert |:cry:| .	
+Smilies, or emoticons, are small images which can be inserted into your post to add expression emphasis. To use Smiles, certain characters are put together to get the desired output. For example, typing :) will insert 😊 , ;) will insert 😉, etc. Other smilies require the format :texthere: to display. For example, :roll: will insert 🙄 , and :cry: will insert 😢 .	
 
 .. note:: 
  In many cases you can also select which smilie you'd like to insert by clicking its picture on the right side of the Post Content text box. When clicked, the smilie's characters will appear at the current location of the curser in the text box. 
